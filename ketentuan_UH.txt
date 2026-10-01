@@ -1,0 +1,17 @@
+UH membuat Program python
+
+spesifikasi program:
+
+1. ada menu dalam program:
+2. gunakan list dan function agar dapat tambah data, hapus data, tampilkan data, edit data (CRUD)
+
+
+contoh program:
+
+Selamat shopping list
+Silakan pilih menu:
+1. Tambah Data belanja
+2. Hapus data Belanja
+3. Edit Data belanja
+4. Tampilkan data belanja
+5. Keluar
