@@ -15,13 +15,14 @@ def luas_persegi(sisi):
 def luas_persegi_panjang(l, p):
     luasP = l * p
     return luasP
-print(luas_persegi(6)) #tanpa return
+
+luas_persegi(6) #tanpa return
 print(luas_persegi_panjang(6,10))
 
 
 # n = int(input("Pilih menu program:\n1. Persegi\n2. Persegi Panjang\n "))
 # if n == 1:
-#     luas_persegi()
+    # luas_persegi()
 # elif n == 2:
 #     luas_PP()
 # else:
