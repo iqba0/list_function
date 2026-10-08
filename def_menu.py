@@ -10,7 +10,7 @@ while True:
     if pilihan == "1":
         print("Daftar barang:")
         for i in range(len(daftar_barang)):
-            print(f"{i + 1}. {daftar_barang[i]}")
+            print(f"{i+1}. {daftar_barang[i]}")
 
     elif pilihan == "2":
         print("Daftar barang:")
